@@ -191,6 +191,43 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
+{% comment %}
+CUSTOM REGISTRATION HTML
+{% endcomment %}
+<p id="registration">
+  <strong>Registration</strong>:
+  Please register if you would like to attend.
+  You will need to book individually for each week of the workshop.
+  The following links take you directly to the booking pages for each week:
+</p>
+<ul>
+  <li>
+    <a href="https://www.events.ed.ac.uk/index.cfm?event=book&scheduleID=38788">
+      Jan 21: Plotting and Programming in Python (Part 1)
+    </a>
+  </li>
+  <li>
+    <a href="https://www.events.ed.ac.uk/index.cfm?event=book&scheduleID=38789">
+      Jan 28: Plotting and Programming in Python (Part 2)
+    </a>
+  </li>
+  <li>
+    <a href="https://www.events.ed.ac.uk/index.cfm?event=book&scheduleID=38790">
+      Feb 4: The Unix Shell (Part 1)
+    </a>
+  </li>
+  <li>
+    <a href="https://www.events.ed.ac.uk/index.cfm?event=book&scheduleID=38791">
+      Feb 11: The Unix Shell (Part 2)
+    </a>
+  </li>
+  <li>
+    <a href="https://www.events.ed.ac.uk/index.cfm?event=book&scheduleID=38792">
+      Feb 18: Version Control with Git
+    </a>
+  </li>
+</ul>
+
 <hr/>
 
 {% comment%}
